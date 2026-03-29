@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a 3rd-year Computer Science student at **Smt. Kashibai Navle College of Engineering (SKNCOE)** with a GPA of **9.12/10**. I love building full-stack web applications and solving algorithmic problems. I'm a **Smart India Hackathon 2024 Grand Finalist** and a **GATE 2026 qualifier**.
+I'm a 3rd-year Computer Science student at **Smt. Kashibai Navle College of Engineering (SKNCOE)** with a GPA of **9.12/10**. I love building full-stack web applications and solving algorithmic problems. I'm a **GATE 2026 qualifier**.
 
 ---
 
